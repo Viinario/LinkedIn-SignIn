@@ -6,7 +6,7 @@ Based only on _**HTML**_ and _**CSS**_, <br/> I have built a simple copy of  Lin
 
 # LinkedIn Sign In Page
 
-![page](https://user-images.githubusercontent.com/69995288/164145863-bd20083c-6fa7-4027-8685-10812a4599d9.png)
+![page](https://user-images.githubusercontent.com/69995288/164146554-1e649852-9526-42c7-a497-89529bd8f44d.png)
 
 > Status: Development 👨🏻‍💻
 
