@@ -6,7 +6,7 @@ Based only on _**HTML**_ and _**CSS**_, <br/> I have built a simple copy of  Lin
 
 # LinkedIn Sign In Page
 
-![page](https://user-images.githubusercontent.com/69995288/164146554-1e649852-9526-42c7-a497-89529bd8f44d.png)
+![page](https://user-images.githubusercontent.com/69995288/164146748-cf4aa9a4-922d-42cb-9ba0-3575d361f95c.png)
 
 > Status: Development 👨🏻‍💻
 
@@ -16,3 +16,4 @@ Based only on _**HTML**_ and _**CSS**_, <br/> I have built a simple copy of  Lin
 + Included the footer
 + Included header
 + Included form
+
